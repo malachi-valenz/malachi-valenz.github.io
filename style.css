@@ -12,6 +12,9 @@ h1 {
 body {
     background-color:   black;
 }
+a {
+    font-family: 'Trebuchet MS', sans-serif;
+}
 
 .navbar {
   display: flex;
@@ -39,7 +42,6 @@ body {
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
-  font-family: 'Trebuchet MS', sans-serif;
 }
 
 .nav-list a:hover {
