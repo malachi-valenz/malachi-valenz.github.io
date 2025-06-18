@@ -7,6 +7,9 @@ h1 {
     font-weight: bold;
     animation: fadein 3s forwards;
     text-align: center;
+    color: white;
 }
-
+body {
+    background-color:   black;
+}
     
