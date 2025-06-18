@@ -18,17 +18,20 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: #333;
-  padding: 0.5em 2em;
+  padding: 0.75em 2em;
 }
 
 .logo img {
-  height: 40px;
+  height: 25px;
+  width: auto;
+  display: block;
 }
 
 .nav-list {
   list-style: none;
   display: flex;
   gap: 2rem;
+  align-items: center;
 }
 
 .nav-list a {
@@ -36,6 +39,7 @@ body {
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
 .nav-list a:hover {
