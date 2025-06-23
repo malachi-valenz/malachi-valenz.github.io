@@ -2,13 +2,6 @@
     from{opacity: 0;}
     to{opacity: 1;}
 }   
-h1 {
-    font-family: 'Trebuchet MS', sans-serif;
-    font-weight: bold;
-    animation: fadein 3s forwards;
-    text-align: center;
-    color: white;
-}
 body {
     background-color:   black;
 }
