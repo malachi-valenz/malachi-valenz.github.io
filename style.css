@@ -46,6 +46,6 @@ h1 {
 }
 hr {
   background-color:white !important;
-  border: none;
-  height: 2px;
+  border: none !important;
+  height: 2px !important;
 }
