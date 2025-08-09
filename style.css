@@ -42,5 +42,5 @@ a {
 }
 h1 {
   color:white !important;
-  text-align:justify !important;
+  justify-content: center !important;
 }
