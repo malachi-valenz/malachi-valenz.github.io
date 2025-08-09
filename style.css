@@ -3,7 +3,7 @@
     to{opacity: 1;}
 }   
 body {
-    background-color:   white;
+    background-color:   black;
 }
 a {
     font-family: 'Trebuchet MS', sans-serif;
@@ -14,7 +14,7 @@ a {
   align-items: center;
   justify-content: space-between;
   background-color: #333;
-  padding: 0.75em 2em;
+  padding: 0.75em 4em;
 }
 
 .logo img {
@@ -26,7 +26,7 @@ a {
 .nav-list {
   list-style: none;
   display: flex;
-  gap: 2rem;
+  gap: 10rem;
   align-items: center;
 }
 
@@ -39,4 +39,8 @@ a {
 
 .nav-list a:hover {
   color: #000 ;
+}
+h1 {
+  text-align: center !important;
+  color: white  !important;
 }
